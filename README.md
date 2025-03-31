@@ -16,7 +16,7 @@ A simple **Amazon-like eCommerce homepage** built using **HTML & CSS**. This pro
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/Parinitha7246/Amazon_clone.git
+https://github.com/Parinitha7246/Amazon_clone.git
 
 
 
